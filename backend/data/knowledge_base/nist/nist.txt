@@ -1,0 +1,7 @@
+The NIST Cybersecurity Framework provides a structured approach for managing cybersecurity risk.
+
+The major cybersecurity functions are Identify, Protect, Detect, Respond and Recover.
+
+Organizations can use these functions to understand cybersecurity risks, implement protective controls, detect suspicious activity, respond to incidents and recover systems after cybersecurity events.
+
+Incident analysis should consider the affected assets, observed behavior, potential impact, detection evidence and appropriate response actions.

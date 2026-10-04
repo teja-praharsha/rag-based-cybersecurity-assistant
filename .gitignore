@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+backend/venv/
+venv/
+
+# Environment variables
+.env
+backend/.env
+
+# ML models
+backend/models/*.joblib
+backend/models/*.pkl
+
+# Dataset
+backend/data/raw/
+backend/data/processed/*.csv
+
+# Chroma
+backend/data/chroma_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

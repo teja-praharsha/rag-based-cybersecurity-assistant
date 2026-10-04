@@ -1,0 +1,7 @@
+MITRE ATT&CK is a globally accessible knowledge base of adversary tactics and techniques based on real-world observations.
+
+Cybersecurity defenders can use MITRE ATT&CK to understand how attackers behave, identify techniques associated with detected activity, and develop detection and mitigation strategies.
+
+When a network event indicates suspicious behavior, defenders can map the behavior to relevant ATT&CK techniques and investigate the associated tactic, technique and mitigation information.
+
+Examples of common attack behaviors include credential access, discovery, lateral movement, command and control, persistence and execution.

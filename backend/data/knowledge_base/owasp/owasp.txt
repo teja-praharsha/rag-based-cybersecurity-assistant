@@ -1,0 +1,5 @@
+OWASP provides application security guidance and resources for identifying common security risks.
+
+Security teams should validate inputs, apply secure authentication and authorization, protect sensitive data, monitor applications and maintain secure development practices.
+
+Security analysis should combine observed technical evidence with appropriate security guidance rather than relying only on a single prediction.

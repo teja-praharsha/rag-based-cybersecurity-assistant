@@ -1,0 +1,5 @@
+CISA provides cybersecurity guidance for identifying, protecting against and responding to cyber threats.
+
+Organizations should investigate unusual network activity, maintain appropriate logging, monitor systems for suspicious behavior and apply security controls based on identified risks.
+
+When suspicious activity is detected, defenders should validate the event, determine affected systems, contain the incident when appropriate and investigate the underlying cause.
